@@ -42,3 +42,15 @@
 
 # Visual Studio
 .vs/
+*.obj
+*.exe
+*.pch
+*.suo
+*.user
+*.ipch
+*.aps
+*.ncb
+*.log
+*.vcxproj.user
+Debug/
+Release/
